@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756381644546",
+    "firebase_url": "https://flutter-complete-guide-293d9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-complete-guide-293d9",
+    "storage_bucket": "flutter-complete-guide-293d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756381644546:android:bd40c7c5a0086b1830b41b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756381644546-3c476g5ke0io08duul55hceg5nssg7iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLL76VgXRMPBMWzIocU5vRKwodFIAmNkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756381644546-3c476g5ke0io08duul55hceg5nssg7iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
